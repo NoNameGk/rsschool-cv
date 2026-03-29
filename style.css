@@ -129,11 +129,11 @@ ul{
 }
 
 .skills__html {
-    background-image: url(/assets/html.png);
+    background-image: url(assets/html.png);
 }
 
 .skills__css {
-    background-image: url(/assets/CSS.png);
+    background-image: url(assets/CSS.png);
 }
 
 .code {
